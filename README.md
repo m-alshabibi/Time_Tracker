@@ -92,7 +92,7 @@ flutter pub get
 
 ### Run the Project
 
-- Use the following command to build and run the project
+- Use the following command to build and run the project 
 
 ```sh
 flutter run
