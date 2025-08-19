@@ -1,7 +1,5 @@
 # Time Tracking
 
-We are deprecating mobile apps as [discussed here](https://discuss.erpnext.com/t/deprecating-erpnext-mobile-apps/84121). 
-
 A simple and elegant time tracking application built with Flutter. It allows users to efficiently log, manage, and track time spent on various projects and tasks, offering a clean interface for organizing work and enhancing productivity.
 
 
